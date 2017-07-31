@@ -15,7 +15,7 @@
 #ifndef TANGO_SUPPORT_TANGO_SUPPORT_H_
 #define TANGO_SUPPORT_TANGO_SUPPORT_H_
 
-#include <tango_client_api.h>
+#include <tango_client_api/tango_client_api.h>
 
 #include <stdint.h>
 
